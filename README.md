@@ -122,7 +122,10 @@ You can see the generated directory tree structure in \*\*Screenshot 2026-06-27 
 
 Here is the sequential log of the terminal execution for this lab session:
 
-\* !\[Alternative Text](Screenshot 2026-06-27 150236.png): Comprehensive command history showing folder generation, file text creation (`cat`/`tac`), and file sorting.
+\* <p align="center">
+  <img src="Screenshot 2026-06-27 150236.png" alt="Topology" width="800">
+</p>
+Comprehensive command history showing folder generation, file text creation (`cat`/`tac`), and file sorting.
 
 \* !\[Alternative Text](Screenshot 2026-06-27 150258.png): Command history documenting link breaking experiments, wildcard lookups (`ls \*.txt`), and internal documentation manual checks (`man ls`).
 
