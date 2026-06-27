@@ -125,13 +125,26 @@ Here is the sequential log of the terminal execution for this lab session:
 \* <p align="center">
   <img src="Screenshot 2026-06-27 150236.png" alt="Topology" width="800">
 </p>
+
 Comprehensive command history showing folder generation, file text creation (`cat`/`tac`), and file sorting.
 
-\* !\[Alternative Text](Screenshot 2026-06-27 150258.png): Command history documenting link breaking experiments, wildcard lookups (`ls \*.txt`), and internal documentation manual checks (`man ls`).
+\* <p align="center">
+  <img src="Screenshot 2026-06-27 150258.png" alt="Topology" width="800">
+</p>
 
-\* !\[Alternative Text](Screenshot 2026-06-27 150315.png): Setup history detailing package updates (`apt install tree`) and navigating system directories.
+Command history documenting link breaking experiments, wildcard lookups (`ls \*.txt`), and internal documentation manual checks (`man ls`).
 
-\* !\[Alternative Text](Screenshot 2026-06-27 150434.png): Output of the final `project\_report.txt` file printed on the screen using the `cat` command.
+\* <p align="center">
+  <img src="Screenshot 2026-06-27 150315.png" alt="Topology" width="800">
+</p>
+
+Setup history detailing package updates (`apt install tree`) and navigating system directories.
+
+\* <p align="center">
+  <img src="Screenshot 2026-06-27 150434.png" alt="Topology" width="800">
+</p>
+
+Output of the final `project\_report.txt` file printed on the screen using the `cat` command.
 
 
 
